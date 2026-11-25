@@ -105,6 +105,14 @@ All notes are numbered Markdown files inside each module folder, with screenshot
 
 ---
 
+### Why aren't you publishing paid modules?
+
+Hack The Box's [platform rules](https://help.hackthebox.com/en/articles/12325897-hack-the-box-platform-rules) only allow publishing solutions for Tier 0 (free) Academy modules and specific retired content. Every module here is Tier 0. Notes for paid-tier modules stay in a private repository.
+
+Questions or concerns about this repo: [open an issue](../../issues).
+
+---
+
 <br>
 
 <div align="center">
