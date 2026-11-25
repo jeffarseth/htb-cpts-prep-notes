@@ -104,3 +104,11 @@ Cracking hashes, protected files and archives, attacking network services, and e
 All notes are numbered Markdown files inside each module folder, with screenshots in a `screenshots/` subfolder. Each note contains the commands as run, real output, dead ends, and the reasoning behind each step. Target addresses change with every session.
 
 ---
+
+<br>
+
+<div align="center">
+
+*Unofficial notes, not affiliated with Hack The Box.*
+
+</div>
