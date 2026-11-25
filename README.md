@@ -1,16 +1,14 @@
----
-
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs4vvysec.github.io%2Fassets%2FHTB.png&f=1&nofb=1&ipt=087fd325fe2c5727d1d0f1fbaed03a87cea646a0d05dcbffd3d1157d8d0e0e30&ipo=images" width="70" />
+        <img src="htb-cpts-icon.png" width="70" />
       </td>
       <td align="center">
         <h1>HTB CPTS PREP NOTES</h1>
       </td>
       <td>
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.credly.com%2Fimages%2Fe63aa507-b974-4e67-bae6-1e425f6e2a99%2Fimage.png&f=1&nofb=1&ipt=dbbfc37e07cb8a480329de93e14d9dbf7ece5b74a3b3b5492ac7830bbb6007bc&ipo=images" width="70" />
+        <img src="htb-icon.png" width="70" />
       </td>
     </tr>
   </table>
