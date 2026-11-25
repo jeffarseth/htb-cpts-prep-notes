@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img src="htb-cpts-icon.png" width="70" />
+        <img src="htb-cpts-icon.png" width="100" />
       </td>
       <td align="center">
         <h1>HTB CPTS PREP NOTES</h1>
